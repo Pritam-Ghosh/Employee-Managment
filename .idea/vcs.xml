@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$/../../.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../../Market Place" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../Amazon.com" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../../React/todos-list" vcs="Git" />
   </component>
 </project>
