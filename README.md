@@ -77,8 +77,8 @@ Employee Management System is a Java-based application designed to manage employ
 ## Contributors
 
 - Pritam Ghosh
-- https://www.linkedin.com/in/pritam-ghosh99/
+
 
 ## License
 
-This project is licensed under the [MIT License](link to license file).
+- https://www.linkedin.com/in/pritam-ghosh99/
